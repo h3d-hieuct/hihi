@@ -46,7 +46,7 @@ This is Section 1.
 
 This is Section 1.
 
-##1
+## 1
 This is Section 1.
 
 This is Section 1.
